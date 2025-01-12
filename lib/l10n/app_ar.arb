@@ -1,0 +1,10 @@
+{
+    "localization" : "عينة توطين الرفرفة",
+    "hello" : "مرحبًا {userName}",
+    "nameLabel" : "اسم المستخدم",
+    "nameHint" : "أدخل اسم المستخدم",
+    "emailLabel" : "معرف البريد الإلكتروني",
+    "emailHint" : "أدخل معرف البريد الإلكتروني",
+    "submitButton" : "يُقدِّم",
+    "clickedTimes": "{count, plural, =0 {لم تضغط على الزر حتى الآن.} one {لقد ضغطت على الزر مرة واحدة.} other {لقد ضغطت على الزر {count} مرات.}}"
+}

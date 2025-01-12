@@ -1,0 +1,10 @@
+{
+    "localization" : "Flutter Localization Sample",
+    "hello" : "Hello {userName}",
+    "nameLabel" : "User Name",
+    "nameHint" : "Enter user name",
+    "emailLabel" : "Email Id",
+    "emailHint" : "Enter email id",
+    "submitButton" : "Submit",
+    "clickedTimes": "{count, plural, =0 {You haven't clicked the button yet.} one {You have clicked the button 1 time.} other {You have clicked the button {count} times.}}"
+}

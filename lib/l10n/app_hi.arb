@@ -1,0 +1,10 @@
+{
+    "localization" : "स्पंदन स्थानीयकरण नमूना",
+    "hello" : "नमस्ते {userName}",
+    "nameLabel" : "उपयोगकर्ता नाम",
+    "nameHint" : " उपयोगकर्ता नाम दर्ज करें",
+    "emailLabel" : "ईमेल आईडी",
+    "emailHint" : "ईमेल आईडी दर्ज करें",
+    "submitButton" : "जमा करना",
+    "clickedTimes": "{count, plural, =0 {आपने अभी तक बटन नहीं दबाया है।} one {आपने बटन को 1 बार दबाया है।} other {आपने बटन को {count} बार दबाया है।}}"
+}
