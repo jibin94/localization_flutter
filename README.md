@@ -1,4 +1,4 @@
-# localization_flutter
+# Flutter Localization
 
 This Flutter project demonstrates a localization setup for a multi-language app supporting **English**, **Arabic**, and **Hindi**. "
 
