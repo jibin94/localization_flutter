@@ -39,9 +39,9 @@ Step 3: Configure localization tool
 
 Create a new `l10n.yaml` file in the root of the Flutter project. This file will hold the configuration for the gen_l10n tool.
 ```
-`arb-dir` – the path of the directory that contains the translation files.
-`template-arb-file` – the name of the template arb file that will be used as basis for generating the Dart localization files.
-`output-localization-file` – the name of the file for the output localization and localizations delegate classes.
+arb-dir – the path of the directory that contains the translation files.
+template-arb-file – the name of the template arb file that will be used as basis for generating the Dart localization files.
+output-localization-file – the name of the file for the output localization and localizations delegate classes.
 ```
 ```
 arb-dir: lib/l10n
